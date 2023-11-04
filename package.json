@@ -1,0 +1,30 @@
+{
+  "name": "user-auth-npm",
+  "version": "1.0.0",
+  "description": "user authentication package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "uuid": "^9.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaymehta002/user-auth-package.git"
+  },
+  "keywords": [
+    "user",
+    "authentication"
+  ],
+  "bugs": {
+    "url": "https://github.com/jaymehta002/user-auth-package/issues"
+  },
+  "homepage": "https://github.com/jaymehta002/user-auth-package#readme"
+}
